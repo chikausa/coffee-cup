@@ -7,7 +7,7 @@ name,Coffee Cup
 craftman,kaikai
 craftmanurl,
 
-homeurl,
+homeurl,https://raw.githubusercontent.com/chikausa/coffee-cup/master/Updates/coffee_cup/
 
 menu.background.bitmap.filename,menu_background.png
 menu.foreground.bitmap.filename,menu_foreground.png

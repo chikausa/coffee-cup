@@ -1,0 +1,12 @@
+Charset,UTF-8
+__system_settings_version__,2
+char0.bind.savearray,500=0 501=0 502=1 503=0 504=0 400=1 401=0 402=0 403=0 404=0 405=0 406=0 407=0 408=0 409=0 300=0 301=0 302=0 303=0 304=0 305=0 200=0 201=1 202=0 203=0 204=0 205=0 206=0 207=0 100=0 101=0 102=0 103=0 104=0 105=1 106=0 107=0 108=0
+Char1.balloon.isleft,1
+balloon0.offset,37.12
+Char0.centery,989
+Char0.balloon.isleft,0
+Char.VirtualDesktop,c070fe55-4deb-49c1-a705-aa88a82caadd
+Char0.center,213
+Char1.centery,1040
+Char1.center,1768
+__system_written_flag_do_not_remove__,written

@@ -1,0 +1,90 @@
+descript
+{
+	version,1
+}
+
+surface0
+{
+
+	animation500.interval,bind
+	animation500.pattern0,add,500,0,0,0
+	animation501.interval,bind
+	animation501.pattern0,add,501,0,0,0
+	animation502.interval,bind
+	animation502.pattern0,add,502,0,0,0
+	animation503.interval,bind
+	animation503.pattern0,add,503,0,0,0
+	animation504.interval,bind
+	animation504.pattern0,add,504,0,0,0
+
+	animation400.interval,bind
+	animation400.pattern0,add,400,0,0,0
+	animation401.interval,bind
+	animation401.pattern0,add,401,0,0,0
+	animation402.interval,bind
+	animation402.pattern0,add,402,0,0,0
+	animation403.interval,bind
+	animation403.pattern0,add,403,0,0,0
+	animation404.interval,bind
+	animation404.pattern0,add,404,0,0,0
+	animation405.interval,bind
+	animation405.pattern0,add,405,0,0,0
+	animation406.interval,bind
+	animation406.pattern0,add,406,0,0,0
+	animation407.interval,bind
+	animation407.pattern0,add,407,0,0,0	
+	animation408.interval,bind
+	animation408.pattern0,add,408,0,0,0	
+	animation409.interval,bind
+	animation409.pattern0,add,409,0,0,0	
+	
+	animation300.interval,bind
+	animation300.pattern0,add,300,0,0,0
+	animation301.interval,bind
+	animation301.pattern0,add,301,0,0,0
+	animation302.interval,bind
+	animation302.pattern0,add,302,0,0,0
+	animation303.interval,bind
+	animation303.pattern0,add,303,0,0,0
+	animation304.interval,bind
+	animation304.pattern0,add,304,0,0,0
+	animation305.interval,bind
+	animation305.pattern0,add,305,0,0,0
+
+	animation200.interval,bind
+	animation200.pattern0,add,200,0,0,0
+	animation201.interval,bind
+	animation201.pattern0,add,201,0,0,0
+	animation202.interval,bind
+	animation202.pattern0,add,202,0,0,0
+	animation203.interval,bind
+	animation203.pattern0,add,203,0,0,0
+	animation204.interval,bind
+	animation204.pattern0,add,204,0,0,0
+	animation205.interval,bind
+	animation205.pattern0,add,205,0,0,0	
+	animation206.interval,bind
+	animation206.pattern0,add,206,0,0,0
+	animation207.interval,bind
+	animation207.pattern0,add,206,0,0,0
+
+	animation100.interval,bind
+	animation100.pattern0,add,100,0,0,0
+	animation101.interval,bind
+	animation101.pattern0,add,101,0,0,0
+	animation102.interval,bind
+	animation102.pattern0,add,102,0,0,0
+	animation103.interval,bind
+	animation103.pattern0,add,103,0,0,0
+	animation104.interval,bind
+	animation104.pattern0,add,104,0,0,0
+	animation105.interval,bind
+	animation105.pattern0,add,105,0,0,0
+	animation106.interval,bind
+	animation106.pattern0,add,106,0,0,0	
+	animation107.interval,bind
+	animation107.pattern0,add,107,0,0,0		
+	animation108.interval,bind
+	animation108.pattern0,add,108,0,0,0	
+	
+}

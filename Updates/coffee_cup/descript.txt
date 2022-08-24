@@ -1,0 +1,65 @@
+﻿seriko.alignmenttodesktop,free
+seriko.use_self_alpha,1
+
+charset,UTF-8
+type,shell
+name,Coffee Cup
+craftman,kaikai
+craftmanurl,
+
+homeurl,
+
+menu.background.bitmap.filename,menu_background.png
+menu.foreground.bitmap.filename,menu_foreground.png
+menu.sidebar.bitmap.filename,menu_sidebar.png
+
+sakura.bindoption500.group,Sleeve
+sakura.bindgroup500.name,Sleeve,Pink Stripe
+sakura.bindgroup501.name,Sleeve,Not St*rbucks
+sakura.bindgroup502.name,Sleeve,SSP
+sakura.bindgroup503.name,Sleeve,Needle
+sakura.bindgroup504.name,Sleeve,Cinnamoroll
+
+sakura.bindoption400.group,Cup,mustselect
+sakura.bindgroup400.default,1
+sakura.bindgroup400.name,Cup,Plain
+sakura.bindgroup401.name,Cup,Pink Cup
+sakura.bindgroup402.name,Cup,Red Cup
+sakura.bindgroup403.name,Cup,Orange Cup
+sakura.bindgroup404.name,Cup,Yellow Cup
+sakura.bindgroup405.name,Cup,Green Cup
+sakura.bindgroup406.name,Cup,Blue Cup
+sakura.bindgroup407.name,Cup,Purple Cup
+sakura.bindgroup408.name,Cup,Cinnamoroll
+sakura.bindgroup409.name,Cup,Kuromi
+
+sakura.bindoption300.group,Cream
+sakura.bindgroup300.name,Cream,Plain Whipped Cream
+sakura.bindgroup301.name,Cream,Caramel Drizzle
+sakura.bindgroup302.name,Cream,Chocolate Drizzle
+sakura.bindgroup303.name,Cream,Strawberry Drizzle
+sakura.bindgroup304.name,Cream,Matcha Drizzle
+sakura.bindgroup305.name,Cream,Chocolate Whipped Cream
+
+sakura.bindoption200.group,Drink,mustselect
+sakura.bindgroup200.default,1
+sakura.bindgroup200.name,Drink,Ice Mocha
+sakura.bindgroup201.name,Drink,Ice Lemon Tea
+sakura.bindgroup202.name,Drink,Ice Matcha Latte
+sakura.bindgroup203.name,Drink,Strawberry Milkshake
+sakura.bindgroup204.name,Drink,Black Coffee
+sakura.bindgroup205.name,Drink,Passionfruit Tea
+sakura.bindgroup206.name,Drink,Galaxy
+sakura.bindgroup207.name,Drink,Radioactive
+
+sakura.bindoption100.group,Straw,mustselect
+sakura.bindgroup100.default,1
+sakura.bindgroup100.name,Straw,Thick Pink Straw
+sakura.bindgroup101.name,Straw,Thick Red Straw
+sakura.bindgroup102.name,Straw,Thick Orange Straw
+sakura.bindgroup103.name,Straw,Thick Yellow Straw
+sakura.bindgroup104.name,Straw,Thick Green Straw
+sakura.bindgroup105.name,Straw,Thick Blue Straw
+sakura.bindgroup106.name,Straw,Thick Purple Straw
+sakura.bindgroup107.name,Straw,Thick Pastel Blue Straw
+sakura.bindgroup108.name,Straw,Thick Pastel Purple Straw
